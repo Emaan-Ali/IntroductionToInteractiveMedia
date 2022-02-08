@@ -15,5 +15,5 @@ Since I wanted to portray how the leaves change colors in fall, I set the ellips
 2. Figuring out the range of red and blue values for green shades took a lot of trial and error
 
 #### Interesting things
-To paraphrase what Ellsworth Kelly said, my art was not a blind chance, always planned, but always surprising.
+To paraphrase what Ellsworth Kelly said, my art was not a blind chance; planned, but always surprising.
 
