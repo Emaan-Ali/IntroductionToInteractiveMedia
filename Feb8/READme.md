@@ -6,7 +6,7 @@ My artwork is inspired by leaves changing colors throughout the year.
 
 I used for() loops to create branches in the background. The x variable increases randomly in a small range giving the effect of different spacing throughout the branches. The y variable also increases randomly and since the opacity of the fill is set to 70, the overlapping squares create more complex shades than just the randomly generated red value.
 
-![](https://github.com/Emaan-Ali/IntroductionToInteractiveMedia/blob/main/Feb8/Autumn.png)
+![](https://github.com/Emaan-Ali/IntroductionToInteractiveMedia/blob/main/Feb8/Branches.png)
 
 Next I created several ellipses on the canvas using randomly generated x and y coordinates. Since I wanted the ellipse to be shades of green, I set the green value at 160 while the red and the blue change over a small range.
 
