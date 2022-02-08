@@ -10,6 +10,8 @@ I used for() loops to create branches in the background. The x variable increase
 
 Next I created several ellipses on the canvas using randomly generated x and y coordinates. Since I wanted the ellipse to be shades of green, I set the green value at 160 while the red and the blue change over a small range.
 
+![](https://github.com/Emaan-Ali/IntroductionToInteractiveMedia/blob/main/Feb8/Green%20leaves.png)
+
 Since I wanted to portray how the leaves change colors in fall, I set the ellipses to change colors as the mouse is pressed giving the illusion of fall.
 
 ![](https://github.com/Emaan-Ali/IntroductionToInteractiveMedia/blob/main/Feb8/Autumn.png)
