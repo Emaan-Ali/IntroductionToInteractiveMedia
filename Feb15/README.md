@@ -2,7 +2,7 @@
 ## Introduction to Interactive Media
 ### Object Oriented Programming Generative Art
 
-For my art, I was inspired by the colors and the patters made by light as it refelcts through a diamond.
+For my art, I was inspired by the colors and patterns made by light as it reflects through a diamond.
 
 I decided to portray this by generating multiple triangles using OOP. I used a for() loop to push the traingles into the object array.
 
