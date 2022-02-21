@@ -7,6 +7,8 @@ For this projects I got the data set representing the popularity of the search w
 
 I then used p5js to visualise this data and plot the points of all the cordinates on the canvas.
 
+![](https://github.com/Emaan-Ali/IntroductionToInteractiveMedia/blob/main/Feb22/Crypto.png)
+
 #### Problems Faced
 1. It was hard to decide on a data set at first but once I made up my mind the process became smoother.
 2. The systax was difficult to navigate but the class notes helped a lot.
