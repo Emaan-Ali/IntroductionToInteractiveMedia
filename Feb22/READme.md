@@ -3,7 +3,7 @@
 ### Data Visualisation
 
 #### Cryptocurrency Google Trends
-For this projects I got the data set representing the popularity of the search word 'crypotocurrency' in the past 5 years.
+For this projects I got the data set representing the popularity of the search word 'cryptocurrency' in the past 5 years.
 
 I then used p5js to visualise this data and plot the points of all the cordinates on the canvas.
 
