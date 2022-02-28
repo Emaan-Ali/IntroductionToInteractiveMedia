@@ -2,3 +2,5 @@
 ## Introduction to Interactive Media
 ### Midterm Project
 #### Dino Game Proposal
+##### dnfw
+###### rfjfej3feow
